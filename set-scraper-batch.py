@@ -33,7 +33,7 @@ def fart():
         open(setCreator+"/"+str(setId)+" ["+setName+"].xml", "wb").write(r.content)
 
         #also save the set image because why not
-        url = "https://www.roblox.com/asset/?id="+str(setImage)
+        url = "https://assetdelivery.roblox.com/v1/asset/?id="+str(setImage)
         r = requests.get(url)
         open(setCreator+"/"+str(setId)+" ["+setName+"].png", "wb").write(r.content)
 
