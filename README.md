@@ -1,6 +1,6 @@
 # ROBLOX-Essential-Sets-Archive
 
-## This repository is now archive and has since been superseded by the [Roblox Set Archive](https://sets.pizzaboxer.xyz).
+## This repository is now archived and has since been superseded by the [Roblox Set Archive](https://sets.pizzaboxer.xyz).
 
 an archive of all ROBLOX sets that are more or less deemed important
 
