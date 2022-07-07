@@ -1,5 +1,7 @@
 # ROBLOX-Essential-Sets-Archive
 
+## This repository is now archive and has since been superseded by the [Roblox Set Archive](https://sets.pizzaboxer.xyz).
+
 an archive of all ROBLOX sets that are more or less deemed important
 
 if you believe there's any sets that are missing then feel free to open up an issue
